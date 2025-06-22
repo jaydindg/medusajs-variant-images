@@ -8,7 +8,7 @@
   </a>
 </p>
 <h1 align="center">
-  Product Variant Images Plugin
+  Medusajs - Product Variant Images Plugin
 </h1>
 
 ## Compatibility
