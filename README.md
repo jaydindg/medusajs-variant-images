@@ -7,6 +7,7 @@
     </picture>
   </a>
 </p>
+<h2>Medusajs</h2>
 <h1 align="center">
   Product Variant Images Plugin
 </h1>
