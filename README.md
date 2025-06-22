@@ -7,9 +7,12 @@
     </picture>
   </a>
 </p>
+
 <h1 align="center">
   Medusajs - Product Variant Images Plugin
 </h1>
+
+![Preview Image](https://minio.feathermarkagency.com/api/v1/buckets/jaydin-github-images/objects/download?preview=true&prefix=medusajs-variant-images-preview.png&version_id=null)
 
 ## Compatibility
 
